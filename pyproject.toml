@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "pyoetrylib"
+name = "pypoetrylib"
 version = "0.2.1"
 description = "Python Poetry lib sample"
 authors = ["Alan S. Ferreira <alansferreira1984@gmail.com>"]
