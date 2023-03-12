@@ -1,5 +1,5 @@
 import unittest
-from pypoetrylib.mymodule import MyModule
+from mymodule import MyModule
 
 myModule=MyModule()
 
