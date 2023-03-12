@@ -1,4 +1,3 @@
-from mylib.mymodule import MyModule
 
 class MyModule:
   def __new__(cls, *args, **kwargs):

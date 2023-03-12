@@ -12,7 +12,7 @@
       "console": "integratedTerminal",
       "justMyCode": false,
       "env": {
-        "PYTHONPATH": "${workspaceFolder}",
+        "PYTHONPATH": "${workspaceFolder}/src",
         "CONFLUENT_CLI": "/media/alf/kingston/dev/bin/confluent/bin/confluent"
       }
     }
